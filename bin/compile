@@ -4,5 +4,5 @@ echo "curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /app/yt/youtube-d
 curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /app/yt/youtube-dl
 echo "chmod a+rx /app/yt/youtube-dl"
 chmod a+rx /app/yt/youtube-dl
-pip install cowpy pillow pyGithub selenium youtube-dl
 pip install --upgrade pip
+pip install cowpy pillow pyGithub selenium wikipedia urbandict google_images_download google-api-python-client googletrans emoji emojis youtube-dl
