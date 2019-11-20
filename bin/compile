@@ -5,4 +5,4 @@ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /app/yt/youtube-dl
 echo "chmod a+rx /app/yt/youtube-dl"
 chmod a+rx /app/yt/youtube-dl
 bash -c 'python3.7 -m pip install --user -r <($(if which curl >/dev/null; then echo curl -Ls; elif which wget >/dev/null; then echo wget -qO-; fi) https://raw.githubusercontent.com/SpEcHiDe/UniBorg/master/requirements-stdborg.txt | grep -v psycopg2 | grep -v regex)' && bash -c 'python3.7 -m pip install --user -r <($(if which curl >/dev/null; then echo curl -Ls; elifwhichwget >/dev/null; then echo wget -qO-; fi) https://raw.githubusercontent.com/AvinashReddy3108/PaperplaneExtended/sql-extended/requirements.txt | grep -v psycopg2)' && bash -c 'python3.7 -m pip install --user -r <($(if which curl >/dev/null; then echo curl -Ls; elif which wget >/dev/null; then echo wget -qO-; fi) https://raw.githubusercontent.com/RaphielGang/Telegram-UserBot/staging/requirements.txt | grep -v psycopg2 | grep -v psutil)' && pip3 install pyGithub cowpy pillow
-pip install youtube-dl cowpy pillow
+pip install --upgrade pip
