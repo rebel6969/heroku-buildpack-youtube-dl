@@ -7,4 +7,5 @@ chmod a+rx /app/yt/youtube-dl
 pip install --upgrade pip
 pip install cowpy pillow pyGithub selenium wikipedia urbandict pySmartDL hexsticker humanize pytube
 pip install oauth2client pydrive
-pip install google_images_download google-api-python-client googletrans emoji emojis youtube-dl
+pip install google_images_download google-api-python-client googletrans emoji emojis
+pip install youtube-dl
