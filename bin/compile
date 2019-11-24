@@ -5,8 +5,11 @@ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /app/yt/youtube-dl
 echo "chmod a+rx /app/yt/youtube-dl"
 chmod a+rx /app/yt/youtube-dl
 pip install --upgrade pip
-pip install aria2p asyncurban coffeehouse cowpy dnspython emoji emojis ffmpeg ffmpeg-python
-pip install google_images_download google-api-python-client googletrans gtts hexsticker humanize
-pip install lyricsgenius neofetch-win oauth2client pillow pydrive pyfiglet pyGithub pymongo pyowm pySmartDL pytube
-pip install redis search-engine-parser selenium speedtest-cli tgs urbandict wikipedia yandex-search yandex-translater
+pip install aiohttp-jinja2 aria2p asyncurban babel CairoSVG coffeehouse cowpy cryptg dialog-py Dialogs dnspython emoji 
+pip install emojis ffmpeg ffmpeg-python future-fstrings GitPython hachoir hachoir-core
+pip install google_images_download google-api-python-client googletrans gtts heroku heroku3 hexsticker humanize
+pip install lyricsgenius meval neofetch-win oauth2client pillow py-crypt pydrive pyfiglet 
+pip install pyGithub pymongo pyowm pySmartDL python-git python-gitpytube pythondialog pyyandextranslateapi
+pip install redis search-engine-parser selenium simple-crypt speedtest-cli Telethon tgs urbandict 
+pip install wikipedia yandex-search yandex-translater
 pip install youtube-dl
