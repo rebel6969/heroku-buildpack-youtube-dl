@@ -8,5 +8,5 @@ pip install --upgrade pip
 pip install aria2p asyncurban coffeehouse cowpy dnspython emoji emojis ffmpeg ffmpeg-python
 pip install google_images_download google-api-python-client googletrans gtts hexsticker humanize
 pip install lyricsgenius neofetch-win oauth2client pillow pydrive pyfiglet pyGithub pymongo pyowm pySmartDL pytube
-pip install redis search-engine-parser selenium speedtest-cli tgs urbandict wikipedia yandex-translater
+pip install redis search-engine-parser selenium speedtest-cli tgs urbandict wikipedia yandex-search yandex-translater
 pip install youtube-dl
