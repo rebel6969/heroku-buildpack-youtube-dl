@@ -12,4 +12,4 @@ pip install lyricsgenius meval neofetch-win pillow py-crypt pyfiglet
 pip install pyGithub pymongo pyowm python-git python-gitpytube pythondialog pyyandextranslateapi
 pip install redis search-engine-parser selenium simple-crypt speedtest-cli Telethon tgs urbandict 
 pip install wikipedia yandex-search yandex-translater
-pip install pydrive pysmartdl oauth2client youtube-dl
+pip install upload_download pydrive pysmartdl oauth2client youtube-dl
