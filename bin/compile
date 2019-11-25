@@ -11,5 +11,5 @@ pip install --upgrade google_images_download google-api-python-client googletran
 pip install --upgrade lyricsgenius meval neofetch-win pillow py-crypt pyfiglet 
 pip install --upgrade pyGithub pymongo pyowm python-git python-gitpytube pythondialog pyyandextranslateapi
 pip install --upgrade redis search-engine-parser selenium simple-crypt speedtest-cli Telethon tgs urbandict 
-pip install --upgrade wikipedia yandex-search yandex-translater
+pip install --upgrade wikipedia yandex-search yandex-translater sql pymssql python-sql
 pip install --upgrade pyocclient wetransferpy pydrive pysmartdl oauth2client youtube-dl
