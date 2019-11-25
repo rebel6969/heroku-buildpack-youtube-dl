@@ -5,11 +5,15 @@ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /app/yt/youtube-dl
 echo "chmod a+rx /app/yt/youtube-dl"
 chmod a+rx /app/yt/youtube-dl
 pip install --upgrade pip
-pip install --upgrade aiohttp-jinja2 aria2p asyncurban babel CairoSVG coffeehouse cowpy cryptg dialog-py Dialogs dnspython emoji 
-pip install --upgrade emojis ffmpeg ffmpeg-python future-fstrings GitPython hachoir hachoir-core
-pip install --upgrade google_images_download google-api-python-client googletrans gtts heroku heroku3 hexsticker humanize
-pip install --upgrade lyricsgenius meval neofetch-win pillow py-crypt pyfiglet 
-pip install --upgrade pyGithub pymongo pyowm python-git python-gitpytube pythondialog pyyandextranslateapi
-pip install --upgrade redis search-engine-parser selenium simple-crypt speedtest-cli Telethon tgs urbandict 
-pip install --upgrade wikipedia yandex-search yandex-translater sql pymssql python-sql
+pip install --upgrade aiofiles aiohttp aiohttp-jinja2 aria2p asciimatics async_generator async-timeout asyncurban attrs babel dnspython
+pip install --upgrade beautifulsoup4 bs4 cachetools cairosvg certifi cffi cfscrape chardet coffeehouse cowpy cryptg dialog-py dialogs
+pip install --upgrade emoji emojis Err:509 ffmpeg ffmpeg-python future future-fstrings gitdb2 gitpython googletrans gtts gtts-token
+pip install --upgrade google_images_download google-api-python-client google-auth google-auth-httplib2 google-auth-oauthlib hachoir-core
+pip install --upgrade hachoir heroku heroku3 hexsticker httplib2 humanize idna loguru lxml lyricsgenius meval multidict neofetch-win
+pip install --upgrade oauthlib pillow psutil psycopg2 psycopg2-binary py-crypt pyaes pyasn1 pyasn1-modules pybase64 pycparser
+pip install --upgrade pydownload pyfiglet pygithub pylast pymongo pymongo[srv] pymssql pyowm python-barcode
+pip install --upgrade python-dotenv python-git python-gitpytube python-magic python-sql pythondialog pytube pytz pyyandextranslateapi
+pip install --upgrade qrcode redis regex requests requests-oauthlib rsa search-engine-parser selenium setuptools simple-crypt six smmap2
+pip install --upgrade soupsieve speedtest-cli spotify_token sql sqlalchemy telegraph telethon telethon-session-sqlalchemy websocket-client
+pip install --upgrade tgs urbandict uritemplate urllib3 wcwidth wikipedia yandex-search yandex-translater yarl
 pip install --upgrade pyocclient wetransferpy pydrive pysmartdl oauth2client youtube-dl
