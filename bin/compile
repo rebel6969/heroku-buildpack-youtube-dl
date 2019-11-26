@@ -11,7 +11,7 @@ pip install --upgrade emoji emojis Err:509 ffmpeg ffmpeg-python future future-fs
 pip install --upgrade google_images_download google-api-python-client google-auth google-auth-httplib2 google-auth-oauthlib hachoir-core
 pip install --upgrade hachoir heroku heroku3 hexsticker httplib2 humanize idna loguru lxml lyricsgenius meval multidict neofetch-win
 pip install --upgrade oauthlib pillow psutil psycopg2 psycopg2-binary py-crypt pyaes pyasn1 pyasn1-modules pybase64 pycparser
-pip install --upgrade pydownload pyfiglet pygithub pylast pymongo pymongo[srv] pymssql pyowm python-barcode
+pip install --upgrade pydownload pyfiglet pygithub pylast pymongo pymongo[srv] pymssql pyowm python-barcode utilities-package
 pip install --upgrade python-dotenv python-git python-gitpytube python-magic python-sql pythondialog pytube pytz pyyandextranslateapi
 pip install --upgrade qrcode redis regex requests requests-oauthlib rsa search-engine-parser selenium setuptools simple-crypt six smmap2
 pip install --upgrade soupsieve speedtest-cli spotify_token sql sqlalchemy telegraph telethon telethon-session-sqlalchemy websocket-client
