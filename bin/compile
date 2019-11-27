@@ -5,16 +5,16 @@ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /app/yt/youtube-dl
 echo "chmod a+rx /app/yt/youtube-dl"
 chmod a+rx /app/yt/youtube-dl
 pip install --upgrade pip
-pip install search-engine-parser aiohttp beautifulsoup4 hachoir-core neofetch-win 
 pip install --upgrade aiofiles aiohttp-jinja2 aria2p asciimatics async_generator async-timeout asyncurban attrs babel dnspython
 pip install --upgrade beautifulsoup4 bs4 cachetools cairosvg certifi cffi cfscrape chardet coffeehouse cowpy cryptg dialog-py dialogs
-pip install --upgrade emoji emojis Err:509 ffmpeg ffmpeg-python future future-fstrings gitdb2 gitpython gtts gtts-token
+pip install --upgrade emoji emojis ffmpeg ffmpeg-python future future-fstrings gitdb2 gitpython gtts gtts-token
 pip install --upgrade google-api-python-client google-auth google-auth-httplib2 google-auth-oauthlib
-pip install --upgrade hachoir heroku heroku3 hexsticker httplib2 idna loguru lxml lyricsgenius meval multidict
+pip install --upgrade hachoir heroku heroku3 hexsticker httplib2 idna loguru meval multidict
 pip install --upgrade oauthlib pillow psutil psycopg2 psycopg2-binary py-crypt pyaes pyasn1 pyasn1-modules pybase64 pycparser
 pip install --upgrade pydownload pyfiglet pygithub pylast pymongo pymongo[srv] "pymssql<3.0" pyowm python-barcode utilities-package
-pip install --upgrade python-dotenv python-git pytube   python-gitpytube python-magic python-sql pythondialog pytz pyyandextranslateapi
+pip install --upgrade python-dotenv python-git pytube  python-magic python-sql pythondialog pytz pyyandextranslateapi
 pip install --upgrade qrcode redis regex requests requests-oauthlib rsa selenium setuptools simple-crypt six smmap2
 pip install --upgrade soupsieve speedtest-cli spotify_token sql sqlalchemy telegraph telethon telethon-session-sqlalchemy websocket-client
 pip install --upgrade tgs urbandict uritemplate urllib3 wcwidth wikipedia yandex-search yandex-translater yarl
+pip install --upgrade search-engine-parser aiohttp beautifulsoup4 lxml python-gitpytube neofetch-win
 pip install --upgrade pyocclient wetransferpy pydrive pysmartdl oauth2client google_images_download humanize googletrans youtube-dl
