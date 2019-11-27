@@ -7,7 +7,7 @@ chmod a+rx /app/yt/youtube-dl
 pip install --upgrade pip
 pip install --upgrade aiofiles aiohttp aiohttp-jinja2 aria2p asciimatics async_generator async-timeout asyncurban attrs babel dnspython
 pip install --upgrade beautifulsoup4 bs4 cachetools cairosvg certifi cffi cfscrape chardet coffeehouse cowpy cryptg dialog-py dialogs
-pip install --upgrade emoji emojis Err:509 ffmpeg ffmpeg-python future future-fstrings gitdb2 gitpython googletrans gtts gtts-token
+pip install --upgrade emoji emojis Err:509 ffmpeg ffmpeg-python future future-fstrings gitdb2 gitpython gtts gtts-token
 pip install --upgrade google-api-python-client google-auth google-auth-httplib2 google-auth-oauthlib hachoir-core
 pip install --upgrade hachoir heroku heroku3 hexsticker httplib2 idna loguru lxml lyricsgenius meval multidict neofetch-win
 pip install --upgrade oauthlib pillow psutil psycopg2 psycopg2-binary py-crypt pyaes pyasn1 pyasn1-modules pybase64 pycparser
@@ -16,4 +16,4 @@ pip install --upgrade python-dotenv python-git python-gitpytube python-magic pyt
 pip install --upgrade qrcode redis regex requests requests-oauthlib rsa search-engine-parser selenium setuptools simple-crypt six smmap2
 pip install --upgrade soupsieve speedtest-cli spotify_token sql sqlalchemy telegraph telethon telethon-session-sqlalchemy websocket-client
 pip install --upgrade tgs urbandict uritemplate urllib3 wcwidth wikipedia yandex-search yandex-translater yarl
-pip install --upgrade pyocclient wetransferpy pydrive pysmartdl oauth2client google_images_download humanize youtube-dl
+pip install --upgrade pyocclient wetransferpy pydrive pysmartdl oauth2client google_images_download humanize googletrans youtube-dl
