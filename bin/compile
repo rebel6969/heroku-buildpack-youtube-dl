@@ -16,5 +16,5 @@ pip install --upgrade python-dotenv python-git pytube  python-magic python-sql p
 pip install --upgrade qrcode redis regex requests requests-oauthlib rsa selenium setuptools simple-crypt six smmap2
 pip install --upgrade soupsieve speedtest-cli spotify_token sql sqlalchemy telegraph telethon telethon-session-sqlalchemy websocket-client
 pip install --upgrade tgs urbandict uritemplate urllib3 wcwidth wikipedia yandex-search yandex-translater yarl
-pip install --upgrade search-engine-parser aiohttp beautifulsoup4 lxml python-gitpytube neofetch-win
+pip install --upgrade search-engine-parser aiohttp beautifulsoup4 lxml neofetch-win
 pip install --upgrade pyocclient wetransferpy pydrive pysmartdl oauth2client google_images_download humanize googletrans emoji youtube-dl
