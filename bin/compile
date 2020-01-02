@@ -9,7 +9,7 @@ pip install --upgrade aiofiles aiohttp-jinja2 aria2p asciimatics async_generator
 pip install --upgrade beautifulsoup4 bs4 cachetools cairosvg certifi cffi cfscrape chardet coffeehouse cowpy cryptg dialog-py dialogs
 pip install --upgrade emojis ffmpeg ffmpeg-python future future-fstrings gitdb2 gitpython gtts gtts-token
 pip install --upgrade google-api-python-client google-auth google-auth-httplib2 google-auth-oauthlib
-pip install --upgrade hachoir heroku heroku3 hexsticker httplib2 idna loguru meval multidict
+pip install --upgrade hachoir heroku heroku3 hexsticker httplib2 idna loguru meval multidict glob2
 pip install --upgrade oauthlib pillow psutil psycopg2 psycopg2-binary py-crypt pyaes pyasn1 pyasn1-modules pybase64 pycparser
 pip install --upgrade pydownload pyfiglet pygithub pylast pymongo pymongo[srv] "pymssql<3.0" pyowm python-barcode utilities-package
 pip install --upgrade python-dotenv python-git pytube  python-magic python-sql pythondialog pytz pyyandextranslateapi
