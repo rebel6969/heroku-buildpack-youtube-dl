@@ -17,6 +17,6 @@ pip install --upgrade qrcode redis regex requests requests-oauthlib rsa selenium
 pip install --upgrade soupsieve speedtest-cli spotify_token sql sqlalchemy telegraph telethon telethon-session-sqlalchemy websocket-client
 pip install --upgrade tgs urbandict uritemplate urllib3 wcwidth wikipedia wand yandex-search yandex-translater yarl
 pip install --upgrade aiohttp beautifulsoup4 search-engine-parser lxml sqlHelper sql-helper google-cloud-translate gitdb
-pip install --upgrade pyocclient wetransferpy pydrive pysmartdl oauth2client google_images_download humanize googletrans emoji lyricsgenius python-dateutil pygithub youtube-dl
+pip install --upgrade pyocclient wetransferpy pydrive pysmartdl oauth2client google_images_download humanize googletrans emoji lyricsgenius python-dateutil tgcrypto pygithub youtube-dl
 
 #DO NOT CHANGE PACKAGE POSITIONS, SOME ARE SENSITIVE, OTHERWISE HEROKU GIVES ERRORS FOR FTG.
